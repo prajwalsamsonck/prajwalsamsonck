@@ -5,6 +5,11 @@
 I’m a curious developer who enjoys turning ideas into dependable products. My work spans full-stack applications, cybersecurity, developer tools, data-driven systems, and practical automation.
 
 <p>
+  <a href="mailto:prajwalsamsonck@gmail.com"><img src="https://img.shields.io/badge/Email-prajwalsamsonck%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email Prajwal"></a>
+  <a href="https://www.linkedin.com/in/prajwal-samson-ck"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="Connect with Prajwal on LinkedIn"></a>
+</p>
+
+<p>
   <a href="https://github.com/prajwalsamsonck?tab=followers"><img src="https://img.shields.io/github/followers/prajwalsamsonck?label=Followers&style=flat-square&color=2563eb" alt="GitHub followers"></a>
   <a href="https://github.com/prajwalsamsonck?tab=repositories"><img src="https://img.shields.io/github/stars/prajwalsamsonck?affiliations=OWNER&style=flat-square&color=f59e0b" alt="GitHub stars"></a>
 </p>
@@ -51,7 +56,5 @@ I’m focusing on building complete, well-documented projects: thoughtful interf
 I’m open to thoughtful collaboration, interesting engineering problems, and projects that create practical value.
 
 <p>
-  <a href="mailto:prajwalsamsonck@gmail.com"><img src="https://img.shields.io/badge/Email-prajwalsamsonck%40gmail.com-1f2937?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email Prajwal"></a>
-  <a href="https://www.linkedin.com/in/prajwal-samson-ck"><img src="https://img.shields.io/badge/LinkedIn-Connect-1f2937?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="Connect with Prajwal on LinkedIn"></a>
   <a href="https://github.com/prajwalsamsonck?tab=repositories">Explore my repositories →</a>
 </p>
