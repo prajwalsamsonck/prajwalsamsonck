@@ -45,13 +45,6 @@ I’m focusing on building complete, well-documented projects: thoughtful interf
   <img src="https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
 </p>
 
-## GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prajwalsamsonck&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Prajwal's GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalsamsonck&layout=compact&hide_border=true&theme=transparent" alt="Prajwal's top languages">
-</p>
-
 ## A few principles
 
 > Build with purpose. Keep the interface clear. Make the assumptions visible. Improve continuously.
