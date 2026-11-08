@@ -7,7 +7,6 @@ I’m a curious developer who enjoys turning ideas into dependable products. My 
 <p>
   <a href="https://github.com/prajwalsamsonck?tab=followers"><img src="https://img.shields.io/github/followers/prajwalsamsonck?label=Followers&style=flat-square&color=2563eb" alt="GitHub followers"></a>
   <a href="https://github.com/prajwalsamsonck?tab=repositories"><img src="https://img.shields.io/github/stars/prajwalsamsonck?affiliations=OWNER&style=flat-square&color=f59e0b" alt="GitHub stars"></a>
-  <a href="https://github.com/prajwalsamsonck"><img src="https://komarev.com/ghpvc/?username=prajwalsamsonck&style=flat-square&color=0f766e" alt="Profile views"></a>
 </p>
 
 ## What I build
